@@ -8,7 +8,7 @@ function Testimonials  ()  {
       title: "Senior Developer",
       img:
         "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      icon: "assets/twitter (1).png",
+      icon: "assets/twitter.png",
       desc:
         "Shankar is an experienced software professional responsible for leading and overseeing technical projects.",
     },
